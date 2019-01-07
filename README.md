@@ -17,3 +17,13 @@ It can easily be transformed into rows of a database, signals, images, stock pri
 5. The analysis and visualization module pulls the latest data for tracking and monitoring via a TCP connection
 
 
+
+-----
+
+## Packages Required : 
+1. pymysql
+2. sqlalchemy
+3. pika
+
+##### To install : 
+pip install <PACKAGE_NAME>
